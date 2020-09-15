@@ -1,1 +1,2 @@
-print("Goodbye, World!")
+import os
+print(os.environ['test'])
